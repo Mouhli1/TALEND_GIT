@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_m67SkNLXEeySoMnV45iMww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_m67SkdLXEeySoMnV45iMww" comment="" name="destinataire" prompt="destinataire?" promptNeeded="false" type="id_String" value="&quot;stagebi2022@gmail.com&quot;"/>
+  <contextParameter xmi:id="_m67SktLXEeySoMnV45iMww" comment="" name="expéditeur" prompt="expéditeur?" promptNeeded="false" type="id_String" value="&quot;pfebi2022@gmail.com&quot;"/>
+  <contextParameter xmi:id="_m67Sk9LXEeySoMnV45iMww" comment="" name="SMPT" prompt="SMPT?" promptNeeded="false" type="id_String" value="&quot;smtp.gmail.com&quot;"/>
+  <contextParameter xmi:id="_m67SlNLXEeySoMnV45iMww" comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="&quot;587&quot;"/>
+  <contextParameter xmi:id="_m67SldLXEeySoMnV45iMww" comment="" name="password" prompt="password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:c9vVhhTkqNxG14GSK3ldaCdf2cy0YXbKhcn7q69J3qE2N/MkXh0aog=="/>
+</talendfile:ContextType>

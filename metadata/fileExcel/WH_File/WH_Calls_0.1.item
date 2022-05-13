@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_f1-10FmZEeyhkbB6rM2ttA" name="WH_Calls" dataPackage="_f2DHQFmZEeyhkbB6rM2ttA" Server="Localhost 127.0.0.1" FilePath="C:/Users/azizm/Desktop/data pfe/aziz_DATA_PFE_v2/WH_FILE/WH_allCalls_daily_2020-12-01.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="2" FirstLineCaption="true" SheetName="Rapport 1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Rapport 1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+    <sheetColumns>R</sheetColumns>
+    <sheetColumns>S</sheetColumns>
+    <sheetColumns>T</sheetColumns>
+    <sheetColumns>U</sheetColumns>
+    <sheetColumns>V</sheetColumns>
+    <sheetColumns>W</sheetColumns>
+    <sheetColumns>X</sheetColumns>
+    <sheetColumns>Y</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_f2DHQFmZEeyhkbB6rM2ttA" name="default" dataManager="_f1-10FmZEeyhkbB6rM2ttA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_f2DHQVmZEeyhkbB6rM2ttA" id="_YyLRUFmYEeyhkbB6rM2ttA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHQlmZEeyhkbB6rM2ttA" label="Column0" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHQ1mZEeyhkbB6rM2ttA" label="Date_SID__Date_" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHRFmZEeyhkbB6rM2ttA" label="Nom_Projet" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHRVmZEeyhkbB6rM2ttA" label="Nom_VDN" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHRlmZEeyhkbB6rM2ttA" label="VDN__ID_" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHR1mZEeyhkbB6rM2ttA" label="Marque" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHSFmZEeyhkbB6rM2ttA" label="Zone_geographique" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHSVmZEeyhkbB6rM2ttA" label="Nom_activite" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHSlmZEeyhkbB6rM2ttA" label="ACW" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHS1mZEeyhkbB6rM2ttA" label="MeA" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHTFmZEeyhkbB6rM2ttA" label="Duree_totale_appel" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHTVmZEeyhkbB6rM2ttA" label="Date_de_debut_et_Heure_en_Paris_Time" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHTlmZEeyhkbB6rM2ttA" label="Date_de_fin_et_Heure_en_Paris_Time" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHT1mZEeyhkbB6rM2ttA" label="Duree_de_comm" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHUFmZEeyhkbB6rM2ttA" label="Libelle_code_appel" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHUVmZEeyhkbB6rM2ttA" label="Ringtime" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHUlmZEeyhkbB6rM2ttA" label="Queuetime" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHU1mZEeyhkbB6rM2ttA" label="Raccroche_agent" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHVFmZEeyhkbB6rM2ttA" label="Code_appel" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHVVmZEeyhkbB6rM2ttA" label="Held" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHVlmZEeyhkbB6rM2ttA" label="Interruptdel" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHV1mZEeyhkbB6rM2ttA" label="VDN__ID_1" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHWFmZEeyhkbB6rM2ttA" label="Firstvdn" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHWVmZEeyhkbB6rM2ttA" label="Login_Agent" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_f2DHWlmZEeyhkbB6rM2ttA" label="Numero_compose" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

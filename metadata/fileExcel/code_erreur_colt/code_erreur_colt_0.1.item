@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_-LXugGJuEeywE85hR2armg" name="code_erreur_colt" id="_-KVzwGJuEeywE85hR2armg" dataPackage="_-LXugWJuEeywE85hR2armg" Server="Localhost 127.0.0.1" FilePath="C:/Users/azizm/Desktop/data pfe/aziz_DATA_PFE_v2/Overflow KPI's Détails_1614237443.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Code d’erreur Colt" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Code d’erreur Colt:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_-LXugWJuEeywE85hR2armg" name="default" dataManager="_-LXugGJuEeywE85hR2armg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_-LXugmJuEeywE85hR2armg" id="_vZNhwGJuEeywE85hR2armg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LXug2JuEeywE85hR2armg" label="Code" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LXuhGJuEeywE85hR2armg" label="Label" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LXuhWJuEeywE85hR2armg" label="Description" length="81" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LXuhmJuEeywE85hR2armg" label="Label_sous_description" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_-LXuh2JuEeywE85hR2armg" label="Resultat_Code" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

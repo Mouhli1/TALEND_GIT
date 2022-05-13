@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_m61zANLXEeySoMnV45iMww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_m61zAdLXEeySoMnV45iMww" comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="&quot;192.168.1.11&quot;"/>
+  <contextParameter xmi:id="_m61zAtLXEeySoMnV45iMww" comment="" name="port" prompt="port?" promptNeeded="false" type="id_Integer" value="21"/>
+  <contextParameter xmi:id="_m61zA9LXEeySoMnV45iMww" comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="&quot;ftp-user&quot;"/>
+  <contextParameter xmi:id="_m61zBNLXEeySoMnV45iMww" comment="" name="password" prompt="password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:5zg8vBZxt1vOe/hM6vIXF9I5SP2i1xiId3XMqCY4RTa7"/>
+</talendfile:ContextType>

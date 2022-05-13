@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_K0K9AFwXEey-9JPtMVflfw" name="ref_line_call_2" dataPackage="_K0K9AVwXEey-9JPtMVflfw" Server="Localhost 127.0.0.1" FilePath="C:/Users/azizm/Desktop/data pfe/aziz_DATA_PFE_v2/REFERENTIELS/OF_REF_LINE_CALL_OLD.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Phone Lines Details" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Phone Lines Details:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_K0K9AVwXEey-9JPtMVflfw" name="default" dataManager="_K0K9AFwXEey-9JPtMVflfw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_K0K9AlwXEey-9JPtMVflfw" id="_Bkm2IFwXEey-9JPtMVflfw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9A1wXEey-9JPtMVflfw" label="SITE_CODE" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9BFwXEey-9JPtMVflfw" label="SITE_MARQUE" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9BVwXEey-9JPtMVflfw" label="SITE_NAME_OPERA" length="49" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9BlwXEey-9JPtMVflfw" label="COLT_NUM" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9B1wXEey-9JPtMVflfw" label="SITE_NUM_PUBLIC" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9CFwXEey-9JPtMVflfw" label="SITE_IBROWSE" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9CVwXEey-9JPtMVflfw" label="WEBHELP_VDN" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9ClwXEey-9JPtMVflfw" label="Numero_LOCAL_SURTAXE" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9C1wXEey-9JPtMVflfw" label="WEBHELP_SDA" length="11" talendType="id_Long" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9DFwXEey-9JPtMVflfw" label="Statut_OF" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9DVwXEey-9JPtMVflfw" label="DATE_DE_MEP" length="29" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9DlwXEey-9JPtMVflfw" label="AUDIOTEL_PC_NUM_SUPPORT" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9D1wXEey-9JPtMVflfw" label="Nombre_de_lignes_en_Overflow_par_SITE" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K0K9EFwXEey-9JPtMVflfw" label="Commentaires" length="33" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
